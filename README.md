@@ -7,6 +7,4 @@ It was a combination of Econometrics and Machine Learning.
 In a nutshell, I took dataset and analyzed data via Pandas and Numpy, used Sklearn to make models, 
 via PyPlot created graphs, statsmodels and linearmodels were used for econometric analysis, seaborn for matrix
 
-2)html can be seen without Anaconda and if you have Anaconda you can use ipynb
-
-3)Also, the very dataset is in csv
+2)Also, the very dataset is in csv
